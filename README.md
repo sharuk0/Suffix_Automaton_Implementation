@@ -37,8 +37,8 @@ automaton = SuffixAutomaton(s)
 
 ###Visualize the Automaton: Visualize the structure of the automaton.
 
-```python
 
+//SOY UN ESPACIO
 
 from visualize_automaton import build_graph, visualize_automaton
 
