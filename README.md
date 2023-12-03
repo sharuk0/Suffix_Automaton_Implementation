@@ -1,4 +1,4 @@
-# Suffix_Automaton_Implementation
+# Simple_Suffix_Automaton_Implementation
 ##Introduction
 
 This Python project implements a Suffix Automaton, a powerful data structure for various string processing applications. The Suffix Automaton provides an efficient way to deal with different problems related to strings, such as searching for substrings, finding the longest common substring, and more.
