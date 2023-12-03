@@ -2,24 +2,22 @@
 ##Introduction
 
 This Python project implements a Suffix Automaton, a powerful data structure for various string processing applications. The Suffix Automaton provides an efficient way to deal with different problems related to strings, such as searching for substrings, finding the longest common substring, and more.
-Features
+Features:
 
-    Build a suffix automaton for any given string.
-    Visualize the structure of the automaton using graph representation.
-    Easy-to-understand code with detailed comments.
+    - Build a suffix automaton for any given string.
+    - Visualize the structure of the automaton using graph representation.
+    - Easy-to-understand code with detailed comments.
 
 ##Installation
 
 To run this project, you need Python 3.x and the following libraries:
 
-    networkx
-    matplotlib
+    - networkx
+    - matplotlib
 
 You can install these libraries using pip:
 
-bash
-
-pip install networkx matplotlib
+- pip install networkx matplotlib
 
 ##Usage
 
@@ -38,9 +36,12 @@ automaton = SuffixAutomaton(s)
 ###Visualize the Automaton: Visualize the structure of the automaton.
 
 
-//SOY UN ESPACIO
+```
+Also this:
 
+```python
 from visualize_automaton import build_graph, visualize_automaton
 
 G = build_graph(automaton)  # Build the graph from the automaton
 visualize_automaton(G)      # Visualize the graph
+```
