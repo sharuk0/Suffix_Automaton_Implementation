@@ -1,5 +1,5 @@
 # Simple_Suffix_Automaton_Implementation
-##Introduction
+## Introduction
 
 This Python project implements a Suffix Automaton, a powerful data structure for various string processing applications. The Suffix Automaton provides an efficient way to deal with different problems related to strings, such as searching for substrings, finding the longest common substring, and more.
 Features:
@@ -8,7 +8,7 @@ Features:
     - Visualize the structure of the automaton using graph representation.
     - Easy-to-understand code with detailed comments.
 
-##Installation
+## Installation
 
 To run this project, you need Python 3.x and the following libraries:
 
@@ -19,7 +19,7 @@ You can install these libraries using pip:
 
 - pip install networkx matplotlib
 
-##Usage
+## Usage
 
 Here's a simple example of how to use this code:
 
